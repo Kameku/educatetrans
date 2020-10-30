@@ -1,2 +1,0 @@
-# educatetrans
-archivos de australia
