@@ -1,0 +1,16 @@
+#bulkOptionContainer {
+    padding-left: 0;
+}
+
+#btnRightNoMargin{
+    float: right;
+    margin-right: 0px;
+}
+
+/*
+#sidebartoright {
+    background-color:#eee;
+    height:100%;
+    position:fixed;
+    right:0;
+}*/
